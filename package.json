@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "seven-dash@1.0.0",
+        "scope": null,
+        "escapedName": "seven-dash",
+        "name": "seven-dash",
+        "rawSpec": "1.0.0",
+        "spec": "1.0.0",
+        "type": "version"
+      },
+      "F:\\Test-Mobile"
+    ]
+  ],
+  "_from": "seven-dash@1.0.0",
+  "_id": "seven-dash@1.0.0",
+  "_inCache": true,
+  "_location": "/seven-dash",
+  "_nodeVersion": "5.1.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/seven-dash-1.0.0.tgz_1465124632664_0.7865545968525112"
+  },
+  "_npmUser": {
+    "name": "novaseven",
+    "email": "developer@mail.com"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "seven-dash@1.0.0",
+    "scope": null,
+    "escapedName": "seven-dash",
+    "name": "seven-dash",
+    "rawSpec": "1.0.0",
+    "spec": "1.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/seven-dash/-/seven-dash-1.0.0.tgz",
+  "_shasum": "27767ab00fa23119815818785ba6d330be24a9d2",
+  "_shrinkwrap": null,
+  "_spec": "seven-dash@1.0.0",
+  "_where": "F:\\Test-Mobile",
+  "author": {
+    "name": "Pawan Kumar"
+  },
+  "bugs": {
+    "url": "https://github.com/novaseven/seven-dash/issues"
+  },
+  "dependencies": {
+    "react-native-measureme": "0.0.1"
+  },
+  "description": "A <Dash /> component for react-native to draw dashed or dotted lines",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "27767ab00fa23119815818785ba6d330be24a9d2",
+    "tarball": "https://registry.npmjs.org/seven-dash/-/seven-dash-1.0.0.tgz"
+  },
+  "gitHead": "74e657f7572cc5ac48e9f6c55b1a70dd7f7cbd24",
+  "homepage": "https://github.com/novaseven/seven-dash#readme",
+  "keywords": [
+    "line",
+    "lines",
+    "react-native",
+    "react",
+    "dashes",
+    "dashed",
+    "dash",
+    "dotted",
+    "dashed-lines",
+    "dotted-lines"
+  ],
+  "license": "MIT",
+  "main": "Dash.js",
+  "maintainers": [
+    {
+      "name": "novaseven",
+      "email": "developer@mail.com"
+    }
+  ],
+  "name": "seven-dash",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaseven/seven-dash.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
